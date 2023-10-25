@@ -1,0 +1,70 @@
+@import url('components/links.css')
+
+
+
+h1 {
+	color: #748E63;
+	font-size: 50px;
+	font-family: Helvetica;
+
+}
+
+h2 {
+	color: black;
+	font-size: 20px;
+	font-family: Helvetica;
+
+}
+
+h3 {
+	color: #79AC78;
+	font-size: 35px;
+	font-family: Helvetica;
+
+}
+
+p {
+	color: black;
+	font-size: 20px;
+	font-family: Times new roman;
+
+}
+
+body {
+	background-color: #EADBC8;
+	
+}
+
+
+#img-me {
+	width: 100px;
+	border-radius: 100%; 
+	border: 5px solid darkgrey;
+}
+
+.container {
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+.passion {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #B2C8BA;
+	border-radius: 70px;
+	box-shadow: rgba(0,0,0,2);
+	padding-block: 10px;
+}
+
+
+.links {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: darkgrey;
+	border-radius: 70px;
+	box-shadow: rgba(0,0,0,2);
+	padding-block: 10px;
+}
